@@ -1,0 +1,8 @@
+ipch
+Debug
+*.sdf
+*.suo
+dump_Ai_test.txt
+dump_Ci_test.txt
+dump_Ri_test.txt
+normalized_input.txt
